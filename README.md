@@ -5,11 +5,11 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LTDaishi)
 
-![visitors](https://img.shields.io/badge/hello-world)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LTDaishi&left_color=green&right_color=red)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LTDaishi)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LTDashi)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LTDaishi)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">

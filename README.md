@@ -1,8 +1,13 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTDaishi)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTDaishi)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=LTDaishi)
+
 ![visitors](https://img.shields.io/badge/hello-world)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LTDaishi)
 <!--
 **LTDaishi/LTDaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

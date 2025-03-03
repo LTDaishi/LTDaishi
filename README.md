@@ -8,6 +8,8 @@
 ![visitors](https://img.shields.io/badge/hello-world)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LTDaishi)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=LTDashi)
 <!--
 **LTDaishi/LTDaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
